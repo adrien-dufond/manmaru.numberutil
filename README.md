@@ -73,7 +73,7 @@ Determines if the value is included within a range<br>
 @return Returns true if the number falls within the range; otherwise false<br>
 @usageNote The range values do not need to be in order.<br><br>
 
-NumberUtil.isBetween(3, 0, 5)); //  true
+NumberUtil.isBetween(3, 0, 5)); //  true<br>
 (NumberUtil.isBetween(7, 0, 5)); // false
 
 
