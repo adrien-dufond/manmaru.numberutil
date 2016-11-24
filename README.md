@@ -1,7 +1,7 @@
 MANMARU NUMBERUTIL JS
 ===============
 
-Inspired from CASA Lib / AS 2.0 (v.10/06/08) - Aaron Clinger, David Nelson<br><br>
+<i>Inspired from CASA Lib / AS 2.0 (v.10/06/08) - Aaron Clinger, David Nelson</i><br><br>
 
 <b>manmaru.numberutil.js :</b> <br>
 Utilities for manipulating number.<br><br>
