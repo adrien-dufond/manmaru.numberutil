@@ -1,6 +1,10 @@
 {
   "name": "manmaru.numberutil",
   "main": "manmaru.numberutil.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrien-dufond/manmaru.numberutil.git"
+  },
   "authors": [
     "Adrien Dufond <adrien.dufond@gmail.com>"
   ],
