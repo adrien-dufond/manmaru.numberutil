@@ -1,0 +1,14 @@
+{
+  "name": "manmaru.numberutil",
+  "main": "manmaru.numberutil.js",
+  "authors": [
+    "Adrien Dufond <adrien.dufond@gmail.com>"
+  ],
+  "description": "javascript utilities for numbers manipulating",
+  "keywords": [
+    "number",
+    "manmaru"
+  ],
+  "license": "MIT",
+  "homepage": "www.manmaru.fr"
+}
