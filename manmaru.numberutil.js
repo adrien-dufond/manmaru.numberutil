@@ -23,7 +23,8 @@ NumberUtil = (function() {
 		@param precision: The maximum amount the two values can differ and still be considered equal.
 		@return Returns <code>true</code> the values are equal; otherwise <code>false</code>.
 	*/
-	NumberUtil.isEqual = function(val1, val2, precision=0) {
+	NumberUtil.isEqual = function(val1, val2, precision) {
+		if (precision === undefined) precision = 0;
 		return Math.abs(val1 - val2) <= Math.abs(precision);
 	}
 		
